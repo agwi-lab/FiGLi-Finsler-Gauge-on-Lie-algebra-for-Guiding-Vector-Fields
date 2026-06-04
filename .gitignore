@@ -1,0 +1,11 @@
+.DS_Store
+*.pth
+*.pt
+*.npy
+.venv
+.env
+.myenv
+env
+venv
+myenv
+__pycache__
